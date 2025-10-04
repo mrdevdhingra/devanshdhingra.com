@@ -21,8 +21,7 @@ To set up the bug reporting feature:
 
 ## Tech Stack
 
-- HTML5
-- CSS3 (Modern responsive design)
+- HTML5 (Retro style, no CSS)
 - Vanilla JavaScript
 - Google Sheets API (via Apps Script)
 
